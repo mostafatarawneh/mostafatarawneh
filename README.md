@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm mostafa Al-tarawneh</h1>
 <h3 align="center">A passionate developer from jordan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafatarawneh&label=Profile%20views&color=0e75b6&style=flat" alt="mostafatarawneh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafatarawneh" alt="mostafatarawneh" /></a> </p>
-
-- 🔭 I’m currently working on **Big Project**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **Python ,Java,Kotlin,Android dev**
 
 - 📫 How to reach me **mostar.mt6@gmail.com**
 
+- ⚡ Fun fact **<----I lose (wink)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mostafa-tarawneh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa-tarawneh" height="30" width="40" /></a>
-<a href="https://instagram.com/mostafatarawneh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mostafatarawneh" height="30" width="40" /></a>
+<a href="https://instagram.com/mostafa.tarawneh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mostafa.tarawneh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
