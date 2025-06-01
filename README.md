@@ -3,7 +3,7 @@
 
 - 🌱 I’m Expert in **Django**
 
-- 💬 Ask me about **Python ,Java,Kotlin,Android dev**
+- 💬 Ask me about **Python ,Java,Flutter,Kotlin,Android dev**
 
 - 📫 How to reach me **mostar.mt6@gmail.com**
 
