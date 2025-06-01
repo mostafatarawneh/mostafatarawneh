@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm mostafa Al-tarawneh</h1>
 <h3 align="center">A passionate developer from jordan</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m Expert in **Django**
 
 - 💬 Ask me about **Python ,Java,Kotlin,Android dev**
 
